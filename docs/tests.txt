@@ -1,0 +1,43 @@
+TEST 1: Correct Answers
+
+Input:
+eternal
+
+Expected Output:
+Correct!
+
+Actual Output:
+Correct!
+
+TEST 2: Incorrect Answer
+
+Input:
+hello
+
+Expected Output:
+Wrong! The correct answer is: eternal
+
+Actual Output:
+Wrong! The correct answer is: eternal
+
+TEST 3: Three Correct Answers
+
+Input:
+Correct word entered 3 times
+
+Expected Output:
+You got 3 correct!
+
+Actual Output:
+You got 3 correct!
+
+TEST 4: Three Incorrect Answers
+
+Input:
+Incorrect word entered 3 times
+
+Expected Output:
+You got 3 incorrect!
+
+Actual Output:
+You got 3 incorrect!
